@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "62071267655",
+    "firebase_url": "https://pro-scanner-d04f3.firebaseio.com",
+    "project_id": "pro-scanner-d04f3",
+    "storage_bucket": "pro-scanner-d04f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62071267655:android:6cb725c44b9a1388faec62",
+        "android_client_info": {
+          "package_name": "com.arif.nodeers.proscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62071267655-5laliiic072lta6vh0p2ov6gio5f2754.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arif.nodeers.proscanner",
+            "certificate_hash": "d7ee9ea90692662c8bc4d917a1c29e5b5ffa7df9"
+          }
+        },
+        {
+          "client_id": "62071267655-ni1mnbd439p2kjh7bscun5nd4nelqnoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa7Y7whGGGF-vh1xUBXwSfDcQkjeYQ5Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62071267655-ni1mnbd439p2kjh7bscun5nd4nelqnoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
